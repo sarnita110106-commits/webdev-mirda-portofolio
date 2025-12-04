@@ -8,3 +8,7 @@ Repository ini berisi:
 - script.js — fungsi interaktif sederhana.
 
 Tujuan proyek ini adalah untuk mempraktikkan penggunaan GitHub, melakukan beberapa commit yang jelas, serta mempublikasikan proyek ke dalam repositori GitHub sesuai instruksi tugas.
+
+
+# Saya suka animasi hover di tombol, membuat website terasa lebih interaktif!
+kamu sudah berhasil good job!
